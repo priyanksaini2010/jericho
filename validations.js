@@ -1,6 +1,8 @@
 const validator = require('validator');
 const creditCardType = require('credit-card-type');
 const postcode = require('postcode-validator');
+Sign-in URL: https://429635507130.signin.aws.amazon.com/console 
+User name: priyank.saini@fisglobal.com
 
 module.exports = {};
 
